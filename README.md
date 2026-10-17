@@ -1,4 +1,4 @@
-# Hi, I'm Rafael Rodrigues 👋
+# Hi, I'm Rafael Rodrigues 
 
 ### Analytics Engineer | Data Analyst | Data Engineer
 
