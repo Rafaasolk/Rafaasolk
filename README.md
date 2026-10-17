@@ -23,14 +23,30 @@ My interests include designing scalable data workflows, improving data quality, 
 
 ## Technologies & Tools
 
-![SQL](https://img.shields.io/badge/SQL-Data%20Queries-336791?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Measures-555555?style=flat-square)
-![ETL%20%2F%20ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-Data%20Pipelines-566573?style=flat-square)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Analytics-4B6584?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=flat-square&logo=github&logoColor=white)
+### Data Analytics & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-555555?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B6584?style=flat-square)
+
+### Data Engineering & Cloud
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5B5FC7?style=flat-square)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ETL / ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-566573?style=flat-square)
+
+### Automation & Integration
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square)
+
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## Featured Projects
 
