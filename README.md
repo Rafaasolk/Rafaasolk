@@ -27,6 +27,7 @@ My interests include designing scalable data workflows, improving data quality, 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-555555?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power%20Query-00B294?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4B6584?style=flat-square)
 
